@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: jetsonStuff (4).GBR   2/6/2023  7:36:58 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay, Top Silk                   
+.GTP                Top Paste, Top Paste                    
+.GTS                Top Solder, Top Mask                    
+.GTL                Top Layer, Top                          
+.GBL                Bottom Layer, Bottom                    
+.GBS                Bottom Solder, Bot Mask                 
+.GBO                Bottom Overlay, Bot Silk                
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[jetsonStuff (4).GTO]
+   Generated File[jetsonStuff (4).GTP]
+   Generated File[jetsonStuff (4).GTS]
+   Generated File[jetsonStuff (4).GTL]
+   Generated File[jetsonStuff (4).GBL]
+   Generated File[jetsonStuff (4).GBS]
+   Generated File[jetsonStuff (4).GBO]
+   Generated File[jetsonStuff (4).GD1]
+   Generated File[jetsonStuff (4).GG1]
+   Generated File[jetsonStuff (4).GM]
+   Generated File[jetsonStuff (4).EXTREP]
+   Generated File[jetsonStuff (4).REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 7:36:59 PM On 2/6/2023
